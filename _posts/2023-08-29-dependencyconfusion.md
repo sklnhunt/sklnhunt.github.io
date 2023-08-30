@@ -4,7 +4,6 @@ date: 2023-08-31 12:00:00 +0900
 categories: [web]
 tags: [web, rce]
 comments: false
-description: "This blog covers the Dependency Confusion Attack"
 ---
 
 

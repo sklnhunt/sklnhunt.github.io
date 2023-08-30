@@ -1,6 +1,6 @@
 ---
 title: "Dependency Confusion Attack: A Route to RCE"
-date: 2023-08-31 12:00:00 +0900
+date: 2023-08-31 14:00:00 +0900
 categories: [web]
 tags: [web, rce]
 comments: false

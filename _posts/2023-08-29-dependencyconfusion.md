@@ -4,6 +4,7 @@ date: 2023-08-31 12:00:00 +0900
 categories: [web]
 tags: [web, rce]
 comments: false
+description: "This blog covers the Dependency Confusion Attack"
 ---
 
 
@@ -15,7 +16,7 @@ Hello, amazing hackers! Today, I'm explaining one of my recent findings: the dep
 
 * A Dependency Confusion attack or supply chain substitution attack occurs when a software installer script is tricked into pulling a malicious code file from a public repository (e.g. NPM, PIP, RUBYGEMS, MVN etc.) instead of the intended file of the same name from an internal repository. The attacker can upload a package with a higher version number to the public repository.
 
-* In this writeup, we are focusing on the **NPM** package dependency. The Dependency confusion vulnerability was discovered by [Alex Brisan](https://twitter.com/alxbrsn) and it is explained very in-depth in his [writeup](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610).
+* In this blog, we are focusing on the **NPM** package dependency. The Dependency confusion vulnerability was discovered by [Alex Brisan](https://twitter.com/alxbrsn) and it is explained very in-depth in his [writeup](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610).
 
 ### Discovery
 

@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm Krunal Savaliya, security researcher and pentester, specializing in application and network penetration testing.
+I'm Krunal Savaliya, a security researcher and pentester, specializing in application and network penetration testing.
 
 This blog has been created to share insights and knowledge on offensive security topics that I'm passionate about.
 

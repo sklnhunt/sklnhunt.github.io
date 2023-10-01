@@ -1,6 +1,6 @@
 ---
 title: "XPATH Injection - Exploiting Error-based SQL Injection"
-date: 2023-10-01 18:00:00 +0900
+date: 2023-10-01 22:00:00 +0900
 categories: [mobile]
 tags: [mobile, sqlinjection]
 comments: false
